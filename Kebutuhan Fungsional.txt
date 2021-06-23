@@ -1,0 +1,37 @@
+Kebutuhan Fungsional
+1.	Pemilik
+-	Mengelola data pegawai
+Fitur ini digunakan untuk mengelola data pegawai toko. Fitur ini digunakan oleh pemilik toko. Untuk apa saja yang termasuk pengelolaan data pegawai, berikut adalah penjabarannya:
+o	Memasukkan data pegawai.
+o	Mengubah data pegawai.
+o	Menonaktifkan pegawai yang sudah tidak aktif.
+
+-	Melihat data barang
+Fitur ini digunakan untuk melihat data barang yang ada di toko. Fitur ini digunakan oleh pemilik toko.
+
+-	Melihat data transaksi barang masuk
+Fitur ini digunakan untuk melihat data transaksi barang yang masuk ke toko. Fitur ini digunakan oleh pemilik toko.
+
+-	Melihat data transaksi barang keluar
+Fitur ini digunakan untuk melihat data transaksi barang yang keluar dari toko. Fitur ini digunakan oleh pemilik toko.
+
+2.	Pegawai
+-	Mengelola data barang
+Fitur ini digunakan untuk mengelola data pegawai barang yang ada di toko. Fitur ini digunakan oleh pegawai toko. Untuk apa saja yang termasuk pengelolaan data barang, berikut adalah penjabarannya:
+o	Memasukkan data barang.
+o	Mengubah data barang.
+o	Menghapus data barang.
+
+-	Mengelola data transaksi barang masuk.
+Fitur ini digunakan untuk mengelola data transaksi barang yang masuk ke toko. Fitur ini digunakan oleh pegawai toko. Untuk apa saja yang termasuk pengelolaan data transaksi barang masuk, berikut adalah penjabarannya:
+o	Memasukkan data transaksi barang masuk.
+o	Mengubah data transaksi barang masuk.
+o	Menghapus data transaksi barang masuk.
+
+
+
+-	Mengelola data transaksi barang keluar.
+Fitur ini digunakan untuk mengelola data transaksi barang yang keluar dari toko. Fitur ini digunakan oleh pegawai toko. Untuk apa saja yang termasuk pengelolaan data transaksi barang keluar, berikut adalah penjabarannya:
+o	Memasukkan data transaksi barang keluar.
+o	Mengubah data transaksi barang keluar.
+o	Menghapus data transaksi barang keluar.

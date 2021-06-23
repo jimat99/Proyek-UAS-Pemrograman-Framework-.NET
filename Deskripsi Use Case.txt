@@ -1,0 +1,16 @@
+Nomor	Use Case |	Deskripsi
+1.	Memasukkan data pegawai. |	Proses memasukkan data pegawai ke dalam basis data.
+2.	Mengubah data pegawai. |	Proses mengubah data pegawai yang telah ada di basis data.
+3.	Menonaktifkan pegawai. |	Proses menonaktifkan status aktif pada pegawai di basis data.
+4.	Melihat data barang. |		Proses melihat data barang yang ada pada basis data.
+5.	Melihat data transaksi barang masuk. |		Proses melihat data transaksi barang masuk yang ada pada basis data.
+6.	Melihat data transaksi barang keluar. |		Proses melihat data transaksi barang keluar yang ada pada basis data.
+7.	Memasukkan data barang. | 	Proses memasukkan data barang ketika ada barang jenis baru.
+8.	Mengubah data barang. |		Proses mengubah data barang yang telah ada di basis data.
+9.	Menghapus data barang. |	Proses menghapus data barang dari basis data.
+10.	Memasukkan data transaksi barang masuk.	|     Proses memasukkan data transaksi barang masuk ketika ada barang yang masuk ke inventori. Proses ini akan menambahkan stok barang pada inventori.
+11.	Mengubah data transaksi barang masuk. | 	Proses mengubah data transaksi barang masuk yang telah ada di basis data.
+12.	Menghapus data transaksi barang masuk. |	Proses menghapus data transaksi barang masuk dari basis data.
+13.	Memasukkan data transaksi barang keluar. |	Proses memasukkan data transaksi barang keluar ketika ada barang yang keluar dari inventori. Proses ini akan mengurangi stok barang pada inventori.
+14.	Mengubah data transaksi barang keluar. |	Proses mengubah data transaksi barang keluar yang telah ada di basis data.
+15,	Memasukkan data transaksi barang keluar. |	Proses menghapus data transaksi barang keluar dari basis data.
