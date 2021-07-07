@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project UAS Pemrograman Framework .NET.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project_UAS_Pemrograman_Framework.NET.FormLogin.resources
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project_UAS_Pemrograman_Framework.NET.Properties.Resources.resources
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project UAS Pemrograman Framework .NET.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project UAS Pemrograman Framework .NET.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\bin\Debug\Project UAS Pemrograman Framework .NET.exe.config
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\bin\Debug\Project UAS Pemrograman Framework .NET.exe
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\bin\Debug\Project UAS Pemrograman Framework .NET.pdb
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project UAS Pemrograman Framework .NET.csproj.CopyComplete
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project UAS Pemrograman Framework .NET.exe
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project UAS Pemrograman Framework .NET.pdb
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project_UAS_Pemrograman_Framework.NET.FormPemilik.resources
+C:\Users\DELL\source\repos\Project UAS Pemrograman Framework .NET\Project UAS Pemrograman Framework .NET\obj\Debug\Project_UAS_Pemrograman_Framework.NET.FormPegawai.resources
